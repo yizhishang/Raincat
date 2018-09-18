@@ -6,7 +6,7 @@ spring:
    application:
       name: raincat-admin
    profiles:
-     active: db
+     active: redis
 
 tx:
   admin :
